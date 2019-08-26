@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+    <string name="tv_overview">Overview</string>
+    <string name="tv_artis">Artist</string>
+    <string name="menu_about">About</string>
+    <string name="about_nama">Alvin Oscar Meko</string>
+    <string name="about_email">Oscar.4lv1n@gmail.com</string>
+    <string name="btnmore">More</string>
+</resources>
